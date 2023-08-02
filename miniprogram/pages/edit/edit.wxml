@@ -1,0 +1,29 @@
+<!--pages/edit/edit.wxml-->
+<text class="blank">{{blank}}</text>
+<view class="page" data-weui-theme="{{theme}}">
+    <view class="page__bd" wx:for-items="{{plans}}" wx:for-item="plan" wx:key="*this" data-planname="{{plan.planname}}" data-content="{{plan.content}}" data-dates="{{plan.dates}}" data-times="{{plan.times}}">
+			<view class="weui-panel">
+				<view style="display:flex; flex-direction:row;" >
+					<view style="width:80%;">
+						<view class="weui-panel__bd">
+							<view class="weui-media-box weui-media-box_text">
+									<h4 class="weui-media-box__title">{{plan.planname}}</h4>
+									<view class="weui-media-box__desc">{{plan.content}}</view>
+									<view class="weui-cell__ft"></view>
+									<view class="weui-media-box__info">
+										<view class="weui-media-box__info__meta">{{plan.dates}}</view>
+										<view class="weui-media-box__info__meta weui-media-box__info__meta_extra">{{plan.times}}</view>
+									</view>
+							</view>
+						</view>
+					</view>
+					<view class="plan_delete"><image class="plan_delete" src="/images/icon/delete.png" bindtap="deleteplan"></image></view>
+				</view>
+			</view>
+			<view style="height:10px"></view>
+    </view>
+</view>
+
+<navigator url="/pages/edit/newplan/newplan" class="edit_newplan">
+    <image src="/images/icon/addto.png"></image>
+</navigator>

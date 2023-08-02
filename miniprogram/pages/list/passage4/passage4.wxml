@@ -1,0 +1,31 @@
+<view class="page" data-weui-theme="{{theme}}">
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__h1">情绪成熟的人，</view>
+            <view class="weui-article__h1">具有哪些表现？</view>
+            <view class="weui-article__section">
+                <view class="weui-article__section">
+                    <view class="weui-article__p">我们经常会形容一个人“情商高”，那么，什么是情商呢？心理学上认为，情绪智力简称情商（Emotional Quotient），指的是一个人对于自己或者他人的情绪管理能力。</view>
+                    <view class="weui-article__p">一般而言，情商高的人往往能够从容地化解人际交往过程中遇到的难题，我们常说一个人变得更加成熟稳重了，其实也是暗指对方情绪更成熟了、情商更高了。</view>
+                    <view class="weui-article__p">情绪成熟的人不仅能够照顾好自己的情绪，他们还能让周围的人在和他们相处的过程中感到安心，这样的人到哪里都深受欢迎。那么，一个情绪成熟的人都有哪些具体表现呢？</view>
+                    <view class="weui-article__h2">无条件的自我接纳</view>
+                    <view class="weui-article__p">著名心理学家马斯洛认为，情绪成熟的人普遍具有无条件接纳自己的能力。拥有这种能力的人能够更加客观地看待生活中的人和事，并不加以评判性的眼光。他们对自身的能力有全面的认识，不容易受偏见影响，做出的判断和规划也更加合理并且具有可行性。</view>
+                    <view class="weui-article__p">同时，能够做到无条件接纳自己的人往往也能接纳他人。他们总是能够用更包容的心态去了解他人，尊重不同的价值观念，而不会认为和自己不同观念的人都是不值得交往和信任的。这种对自我的关爱和对他人的理解使他们能活的更加豁达、快乐。</view>
+                    <view class="weui-article__h2">情绪理解能力强</view>
+                    <view class="weui-article__p">有的人经常和别人发生冲突，对方的好意也会被他们曲解成恶意，有的人容易紧张，一遇到大型场合便觉得头脑一片空白，呼吸也会变得急促。而对于情绪成熟的人而言，在压力和冲突面前，他们总能保持冷静并积极寻找解决办法。</view>
+                    <view class="weui-article__p">他们能够根据不同的情境做出恰当的情绪反应，他们能在负面情绪处于萌芽阶段时，就意识到负面情绪的出现。数据显示，情绪理解能力强的人，患抑郁症的几率更低。除此之外，他们也会用更健康、适当的方式来应对负面情绪，所以，他们不容易陷入不健康、自我伤害的行为习惯中。</view>
+                    <view class="weui-article__h2">共情能力强</view>
+                    <view class="weui-article__p">同时，情绪成熟的人共情能力也更强。共情（empathy），指的是站在对方立场，设身处地思考的一种能力，即人际交往过程中，能够体会他人的情绪和想法、理解他人的立场和感受，并站在他人的角度思考和处理问题。</view>
+                    <view class="weui-article__p">对于情绪成熟的人而言，生活中，他们很擅长察言观色，无论是同事、亲人、领导还是朋友。只要周围的人情绪一有反常，他们就能捕捉到，尤其是像悲伤、愤怒、失望这样的负面情绪。</view>
+                    <view class="weui-article__p">即使对方表面上平静，嘴上说着“我没事”，他们也能感觉到别人平静表象下暗自汹涌的情绪。所以，共情能力强的人更加能够理解、体谅、缓和他人的苦难，这让他们在人群中更受欢迎。</view>
+                    <view class="weui-article__h2">总结</view>
+                    <view class="weui-article__p">总体而言，情绪成熟的人，无论是在独处还是社交都能有较好的生活体验。他们能够找到自己和他人交往的边界，这让他们有能力关怀其他人，并且不会受到伤害，这样一种平衡的状态是健康而舒适的。</view>
+                </view> 
+            </view>     
+        </view>   
+    </view>
+</view>
+
+<view class="like_passage">
+    <image src="{{like}}" bindtap="liketap"></image>
+</view>

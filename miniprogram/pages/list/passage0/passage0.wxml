@@ -1,0 +1,56 @@
+<view class="page" data-weui-theme="{{theme}}">
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__h1">商业英语:</view>
+            <view class="weui-article__h1">清华学霸教你快速提升商业英语</view>
+            <view class="weui-article__section">
+                <view class="weui-article__section">
+                    <view class="weui-article__h2">学习阶段</view>
+                        <view class="weui-article__h3">阶段一</view>
+                        <view class="weui-article__p">就认认真真听录音，听到零星的自己觉得是重点的就记点笔记。但只用这种方法听了一篇就觉得需要改进。因为我回顾笔记的时候，这些重点太过于零散了，不太系统化，并且印象不够深刻，不能扎实掌握。</view>
+                        <view class="weui-article__p">PS. 这个阶段每篇用时30min左右，想追求更好的提升。</view>
+                        <view class="weui-article__h3">阶段二</view>
+                        <view class="weui-article__p">碰巧群里发了讲解文字版的百度云。因为认为已经有了讲解的文字版材料，还零散地记笔记比较浪费时间。于是完完整整提前打印了每节课的讲解教材。（群内助手一般会提前发十几课的材料。）边听边highlight一些重点，然后有好的原文句子段落或者有好的补充知识就抄到我打印的文档上。</view>
+                        <view class="weui-article__p">PS. 这个阶段每篇用时15min左右，因为当时忙，想追求的是效率。</view>
+                        <view class="weui-article__p">其实我一直认为这样的方式如果能换成ipad电子笔记就很不错，是一个可以很长久保持高校学习这门课程的方法。但有一个很大的缺点就是，如果我想要review巩固知识点，快速复习，需要翻阅的纸质教材比较多，不太便携，并且最重要的是highlight比不上自己做笔记来的深刻。</view>
+                        <view class="weui-article__h3">阶段三</view>
+                        <view class="weui-article__p">最后选择了踏实地记笔记方法，我并不推荐所有人都这样学喔，因为我当时对课程的定位是“实用”（下面会讲），并不打算当做自我提升泛读类的课程，因此才这样选择。时间花费更多的同时，掌握也会更好一些些，有舍有得。</view>
+                        <view class="weui-article__p">PS. 这个阶段追求的是质量，是我需要掌握真正能运用的知识。</view>
+                    <view class="weui-article__h2">具体方法</view>
+                        <view class="weui-article__h3">英文讲解  +  商业知识  +  自己的拓展</view>
+                        <view class="weui-article__p">然后是像在学校上课一样，全程跟着老师的思路做笔记。红、黑、蓝三色笔，红色重点，黑色基础，蓝色只代表原文。</view>
+                        <view class="weui-article__p">英语讲解的部分我不会选择去拓展，但是我非常非常重视原文。因为原文的词组和写作的方法，都是特别地道的Business related English，所以如果这句话我认为要积累，而他更对应的是新的词汇或者写作方法，我就会放入第一块“英文讲解”里来抄这一大段的英文；如果这句话好是好在对business的描述，我就会放到第二块“商业知识”里</view>
+                        <view class="weui-article__p">当然我想再次强调，我并不是觉得一定要做笔记。</view>
+                        <view class="weui-article__p">首先，做笔记会比较费时，一次课大约要1h详读。</view>
+                        <view class="weui-article__p">其次，我做笔记是为了更好的review，多次review才是能长久性记忆的基础方法。电子版笔记也OK，更关键是做笔记的过程中，手动脑也要动，才能达到deeply learning的目的。</view>
+                        <view class="weui-article__p">最后是拓展，因为平时自己也有阅读Business & Finance新闻或者观点分析的习惯（36氪、华尔街新闻安利），因此一旦看到有所关联的选题，我会把相关的商业知识联系在一起，一个是为了加深印象，一个也是为了拓展延伸知识。</view>
+                        <view class="weui-article__p">举两个例子，我记得麦麦（麦当劳）改名的时候，因为比较感兴趣看了特别多的改名原因猜测或者品牌战略分析，包括还有和KFC战略的对比，所以当时就做了补充放在那课的笔记后面。再比如网红经济，复旦管院的教授有过一篇不错的分析，也就也做了补充</view>
+                    <view class="weui-article__h2">总结</view>
+                        <view class="weui-article__h3">及时复习</view>
+                        <view class="weui-article__p">记忆曲线大家都知道，同时也要具备测试性思维。比如，自己看到topic就主动地去回忆大概的内容以及老师讲的知识点。会比你一遍遍看（心里会觉得看了好多遍肯定记得住）更有意义的多（有科学例证的，这也就是刷题有助背诵的原理嘛）。</view>
+                        <view class="weui-article__h3">思维勤奋</view>
+                        <view class="weui-article__p">每一话题尽量及时联想，比如可能会联想到产业驱动因素，或者未来的趋势？多联想，其实也就是一种知识的运用和自己知识网的搭建了。除此之外，在时间允许的条件下，如果想着重研究几个case，就多做DD（Duediligence），名家观点真的太多了，一开始博采众长多阅读，长久以后才会凝练出自己的观点，也是真正更具备business sense，达到这个课程的目的。</view>
+                    <view class="weui-article__h2">实际应用</view>
+                        <view class="weui-article__h3">保研面试</view>
+                        <view class="weui-article__p">因为今年大三面临保研夏令营，有了解过经管保研的小伙伴应该都知道像清华mim、复旦管院、上交高金这些学院都是需要全英文讨论case面。单面环节也可能会出考察你business sense的时事题。</view>
+                        <view class="weui-article__p">在面试的时候，商业网课如果扎实地学下来的话简直太有用啦，我也顺利地拿到了其中一个offer（但可惜不是最后选择去的）。</view>
+                        <view class="weui-article__p">一方面，如果碰到了同一个企业的case，不用说肯定很开心了，直接运用。例如，我在单面的时候被问到了怎么看待ofo的未来发展，sharing economy那课就也非常好用了。</view>
+                        <view class="weui-article__p">另一方面，我们学习的每一个case背后的商业知识和拓展延伸，都是在很多地方通用的。比如McDonald那课，localization就是一种品牌战略，是可以在很多case里通用的。例子不胜枚举，有用无用全凭个人学习态度了。</view>
+                        <view class="weui-article__h3">CASE STUDY</view>
+                        <view class="weui-article__p">我自己本身就是学习商科的，因此在学校就会上Businessstrategy这样的课，也会碰到各种case study。比如我们有一次做case就连续碰上了星巴克和沃尔玛。在没有足够的时间google英文版的企业背景或者战略发展介绍，又需要马上发表自己的观点的时候，我们的课程就显得非常有用处的啦。不管是课程原文中英文地道的表述，还是老师给我们分享的商业知识，都会在一定程度使用上。</view>
+                        <view class="weui-article__p">个人认为不应该太在意是否会得到什么样的实质性收获，自己选择学习知识时也不一定会有太结果导向化的目的。“思维勤奋”和“学会运用”等几个tips刚刚提了。如果真正能践行，我相信后续学习课程的同学们绝对会有比我更大的收获的。Btw，个人觉得任何课程或实践经历其实也差不多也是一样的这几点，多进行深度思考和总结，机遇或者幸运自然就来啦~</view>
+                    <view class="weui-article__h2">建议与嘱咐</view>
+                        <view class="weui-article__h3">想清楚自己对商业课程的定位</view>
+                        <view class="weui-article__p">是想拓宽知识面能够作为谈资？还是想扎实地当做一门课程来学习，甚至发挥一些用处？</view>
+                        <view class="weui-article__p">想清楚真的非常重要。因为如果你想在面试，想在不能去找材料的条件下就能第一反应完整地道出知识点或英语表述，那就必须好好扎实学习课程。而如果只是为了sense的积累，那么你只要听过课程，讲义和笔记一直好好保持，要用的时候翻出来那个话题便是了，因此学习方法也对应有所不同。想清楚了以后，再做适当的选择，没有孰优孰劣，我分享自己的方法也仅仅只是作为大家的一种选择和参考</view>
+                        <view class="weui-article__h3">明白学习商业英语的价值</view>
+                        <view class="weui-article__p">商业嗅觉相关：其实老师在做知识点的时候每课都有不同。有时候的知识并不是像Business strategy课本里就会出现的知识点（例如各类的矩阵、模型，也就是③），而是在于老师分享她对于一个行业的应用前景或者驱动因素分析时能培养我们的商业嗅觉这一点。因此我说的拓展学习，也是为了更进一步锻炼自己的sense。</view>
+                </view> 
+            </view>     
+        </view>   
+    </view>
+</view>
+
+<view class="like_passage">
+    <image src="{{like}}" bindtap="liketap"></image>
+</view>

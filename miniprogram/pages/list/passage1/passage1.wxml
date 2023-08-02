@@ -1,0 +1,34 @@
+<view class="page" data-weui-theme="{{theme}}">
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__h1">学习效率</view>
+            <view class="weui-article__h1">如何迅速提高学习效率，这5个技巧必须知道</view>
+            <view class="weui-article__section">
+                <view class="weui-article__section">
+                    <view class="weui-article__p">我们每个人都需要学习，比如现在正在学习一件乐器，或者计划以后要学习一门外语。如何更快地掌握学习的技巧就显得至关重要。是不是时常感觉学习的时候力不从心，或者找不到重点，致使学习效率低下；是不是经常认为自己已经很努力了，却还是学不会记不住知识点。其实，无论成年人还是孩子都面临着学习效率的问题。在科技迅猛发展的今天，我们要处理的信息量也成倍增加。过去死读书，读死书的方式越来越行不通了。既然学习的方式变了，那么方法也应该跟着革新。在这里借鉴国外总结的5个提高学习效率的技巧，一一展开。希望能改善你学习效率的低的问题。</view>
+                    <view class="weui-article__p"><image class="weui-article__img" src="cloud://xly-4oitt.786c-xly-4oitt-1302023783/passages/passage1.jpg" mode="aspectFit" style="height: 180px" /></view>
+                    <view class="weui-article__h2">分解学习任务，使用80/20法则管理学习过程。</view>
+                    <view class="weui-article__p">大家都非常熟悉80/20法则，其实这个法则同样可以运用到学习中来。80%的产出，是由20%的工作带来的。当然具体比例可能因事而异，但是事物的道理是不变的。20%的学习方法可能影响80%的学习成果。我们在学习中会遇到无从下手的时候，到处寻找答案而得不到解决。这时我们只需做一两件事，这一两件事是达到目的的关键。通过反复的学习和思考，就会带来在这个问题上的突破。这就是分解学习任务，把学习的重点画出来，着重学习理解。那么学习中普遍的，推演的部分便迎刃而解。例如弹吉他，不应该纠结弹奏的模式，而是认真练习基本的和弦，以及和弦之间的过渡，等练习的连贯之后自认会取得大的进步。</view>
+                    <view class="weui-article__p"> <image class="weui-article__img" src="cloud://xly-4oitt.786c-xly-4oitt-1302023783/passages/passage12.jpg" mode="aspectFit" style="height: 180px" /></view>
+                    <view class="weui-article__h2">全神贯乎，番茄学习法提高效率。</view>
+                    <view class="weui-article__p">学习时全神贯注非常重要，可是做起来却很难。你会被突然想起的手机打断，有时也会因为外界的嘈杂而影响。为了增加学习的专注度，使用番茄学习法或许能有一定效果。我们排除一切干扰学习的外界因素，并在短时间内专注一件事，大概持续20--25分钟，然后休息3--5分钟。这样我们在学习时，把学习分成若干个时段，每个时段学习25分钟，休息5分钟。每四个时段多休息一会。这样能使我们在短时间内集中精神完成信息的收集，又不会因为长期的学习感到乏累，提高了学习的有效性。在短暂的休息中，也能得到必要的放松和思考，缓冲学习的知识，避免造成积压。</view>
+                    <view class="weui-article__p"> <image class="weui-article__img" src="cloud://xly-4oitt.786c-xly-4oitt-1302023783/passages/passage13.jpg" mode="aspectFit" style="height: 180px" /></view>
+                    <view class="weui-article__h2">通过实践学习，沉浸式学习法。</view>
+                    <view class="weui-article__p">研究显示通过阅读学习只能学到其中10%的知识：通过听和看能学到其中20%的知识；通过演示能学到其中的50%的知识；学完后练习能学到其中70%的知识；学完后立即使用就能学到90%的知识。很明显沉浸式学习法是最有效的学习方法，只有把学习的东西付诸于实践中，才能巩固学习反射，加强学习效果。就像学习踢足球，没有人会通过专业书籍变成优秀的运动员。你必须上场去联系，在比赛中阅读踢球的技能。站在场边看十场比赛，不加实践练习，你也学不会一次停球。</view>
+                    <view class="weui-article__p"> <image class="weui-article__img" src="cloud://xly-4oitt.786c-xly-4oitt-1302023783/passages/passage14.jpg" mode="aspectFit" style="height: 180px" /></view>
+                    <view class="weui-article__h2">充足睡眠。</view>
+                    <view class="weui-article__p"> 睡眠对于学习意义重大。我们在清醒时学习新事物收集新信息，并加强这些记忆。睡眠就是一种创造性记忆的过程，我们清醒时受到的刺激和学习的知识会在睡眠中得到加强。科学家认为，人的大脑是可以改变结构和组织，也就是大脑的可塑性。我们通过睡眠的休息状态，让大脑对学习的新知识新信息进行处理强化，形成知识记忆。当然充足的睡眠也是保证未来学习的可持续性，困倦的大脑很难集中精神进行学习。保证充足的睡眠也是缓解压力和放松身体的有效方式。毕竟学习是一个需要全身能动的过程。</view>
+                    <view class="weui-article__p"> <image class="weui-article__img" src="cloud://xly-4oitt.786c-xly-4oitt-1302023783/passages/passage15.jpg" mode="aspectFit" style="height: 180px" /></view>
+                    <view class="weui-article__h2">坚持不懈。</view>
+                    <view class="weui-article__p">能够掌握学习的方式方法固然重要，提高了学习的效率，就可以更好的进行学习工作了。可是学习和工作一样，都贵在一个坚持。学习一件事情，是会遇到瓶颈的。当开始入手时会经历一段突飞猛进，随着学习的深入，会经历瓶颈期。这时候可能会想，或许学习已经达到一定高度，不容易前进，便想要放弃。可是学习是一个艰苦的过程，遇到瓶颈便轻言放弃，那就不会达到最终学习的目的。凡事都会经历高潮和低谷，有时候学习时会感觉倒退或者停滞不前，其实这是一种正常反应。我们总要对学习进行一些消化和运用，经历一段快速增长必然有一段慢速分解的过程。坚持不懈才能炉火纯青，凡事都贵在一个坚持。</view>
+                    <view class="weui-article__p"> <image class="weui-article__img" src="cloud://xly-4oitt.786c-xly-4oitt-1302023783/passages/passage16.jpg" mode="aspectFit" style="height: 180px" /></view>
+                    <view class="weui-article__p">这五个学习的技巧，其实也是平时中我们都在坚持的。可能因为没有想过学习本身这件事的原因，总把知识内容放到第一位，很少关注学习的方法和过程。学习其实就是一个过程，一个获取的过程，也是一个反馈的过程，只需要集中精神做好细节，学习的效率便可显而易见。</view>
+                </view> 
+            </view>     
+        </view>   
+    </view>
+</view>
+
+<view class="like_passage">
+    <image src="{{like}}" bindtap="liketap"></image>
+</view>

@@ -1,0 +1,49 @@
+<!--index.wxml-->
+<view class="container">
+    <!-- 用户 openid -->
+    <view class="userinfo">
+        <view class="weui-cell">
+            <button 
+              open-type="getUserInfo" 
+              bindgetuserinfo="onGetUserInfo"
+              class="userinfo-avatar"
+              style="background-image: url({{avatarUrl}})"
+              size="default"
+            ></button>
+            <view class="userinfo-nickname-wrapper">
+              <button class="weui-cell__bd" bindtap="onGetOpenid">点击登录</button>
+            </view>
+        </view>
+    </view>
+    <!-- 操作数据库 -->
+    <view class="userinfo">
+      <view class="weui-cell">
+        <navigator url="./likelist/likelist" open-type="navigate" class="weui-cell__bd">
+          <text>收藏列表</text>
+        </navigator>
+      </view>
+    </view>
+    <view class="userinfo">
+        <view class="weui-cell">
+          <navigator url="./room/room" open-type="navigate" class="weui-cell__bd">
+            <text>进入聊天室</text>
+          </navigator>
+        </view>
+    </view>
+    <view class="userinfo">
+        <view class='weui-cell'>
+            <view class="weui-cell__bd">联系我们</view>
+            <view class="weui-cell__ft weui-cell__ft_in-access"></view> 
+            <button class='contact-btn' open-type='contact' bindcontact="onCustomerServiceButtonClick"></button> 
+        </view>
+    </view>
+    <view class="userinfo">
+        <view class="weui-cell">
+            <view bindtap="onGetWXACode">获取小程序码</view>
+        </view>
+    </view>
+</view>
+<view class="guide">
+    <image src="{{wxacodeSrc}}" mode="aspectFit"></image>
+</view>
+

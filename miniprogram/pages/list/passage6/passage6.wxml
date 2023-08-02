@@ -1,0 +1,28 @@
+<view class="page" data-weui-theme="{{theme}}">
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__h1">如何平衡娱乐与学习之间的关系？</view>
+            <view class="weui-article__section">
+                <view class="weui-article__section">
+                    <view class="weui-article__p">复习是一条漫长的道路，要想始终绷紧神经，努力紧张的复习时不可能的，也是不科学的。高效率的复习并不是高强度长时间的复习，适当的娱乐和休息也很有必要。暑期正值玩耍和复习的好时机。虽不能尽情的游玩，但是也可适当放松娱乐，大家要做的就是平衡两者，以期保持最佳状态备考，提高复习效率，具体我们看下文。</view>
+                    <view class="weui-article__p"> <image class="weui-article__img" src="cloud://xly-4oitt.786c-xly-4oitt-1302023783/passages/passage61.jpg" mode="aspectFit" style="height: 180px" /></view>
+                    <view class="weui-article__h3">如何理解娱乐</view>
+                    <view class="weui-article__p">“考研复习，连平时上课都翘掉了，哪还有时间娱乐啊”相信很多同学都有这样的疑问，其实这样的理解是错误的，考研生活的娱乐并不是以牺牲复习时间所换来的，它也是考研复习的一部分，与考研复习相辅相成。科学证明，普通人可以集中精力专注一件事情的时间是有限的，复习也是这样，当长时间的处于一个紧张的复习状态，势必会造成精神上的不集中，如果依然坚持继续的话，复习的效果必然是要大打折扣的，这个时候，适当的娱乐、休息就变得至关重要。让精神暂时从紧张的复习状态中解放出来，从而得到舒解与放松，为再次投入复习做好准备，达到事半功倍的效果。</view>
+                    <view class="weui-article__p"> <image class="weui-article__img" src="cloud://xly-4oitt.786c-xly-4oitt-1302023783/passages/passage62.jpg" mode="aspectFit" style="height: 180px" /></view><view class="weui-article__h3">处理好娱乐与学习之间的关系</view>
+                    <view class="weui-article__h3">处理好娱乐与学习之间的关系</view>
+                    <view class="weui-article__p">有一点是绝对不可以忘记的，考研是一个艰苦又慢长的过程而考研娱乐仅仅是这个过程中的一个小小的辅助罢了，真正想要成功，不下苦功夫、不吃苦可是不行的。娱乐固然是紧张复习的一针缓解剂，但是“注射”过量的缓解剂也是很危险的，轻者药物上瘾难以戒除;重者可是会“危及生命”。每年因为贪玩而落榜的考生不计其数，所以处理好复习与娱乐之间的关系也是很重要的，绝对不能稍感疲劳就扔下手里的复习去娱乐了。娱乐只能作为复习的一种手段，在保证复习的前提下存活，本末倒置的话，恐怕也只能去“落榜俱乐部”排队了。</view>
+                    <view class="weui-article__p"> <image class="weui-article__img" src="cloud://xly-4oitt.786c-xly-4oitt-1302023783/passages/passage63.jpg" mode="aspectFit" style="height: 180px" /></view><view class="weui-article__h3">处理好娱乐与学习之间的关系</view>
+                    <view class="weui-article__h3">学习娱乐要有规律</view>
+                    <view class="weui-article__p">地球上所有的动物都有一种“生理机制”，从白天到夜晚的一个24小时循环节律，它是生物体生命活动内在的节律性，由生物体内的时间结构序所决定，它叫做“生物钟”。科学证明，生物钟就像人类的第三只眼睛，调节这人体的平衡，形成良好的生物钟可以使人保持精神饱满从而达到最好的工作学习效果。所以，不管是复习还是娱乐，都要有一定的规律，什么时候复习、什么时候娱乐，做好计划安排，养成良好的习惯。不能想起来就复习或者休息，没有任何固定的时间计划，这样打破了生物钟规律，不仅达不到复习、娱乐的最好功效，甚至有可能造成生物机制紊乱，危害健康。</view> 
+                    <view class="weui-article__p"> <image class="weui-article__img" src="cloud://xly-4oitt.786c-xly-4oitt-1302023783/passages/passage64.jpg" mode="aspectFit" style="height: 180px" /></view><view class="weui-article__h3">处理好娱乐与学习之间的关系</view>
+                    <view class="weui-article__h3">适合的娱乐就是最好的娱乐</view>
+                    <view class="weui-article__p">很多人问，在复习过程中，做什么样的娱乐活动更加有利于身心的放松呢?我想说的是，适合自己的娱乐活动就是最适合的。在复习的间歇，有的人喜欢散散步，让精神松弛;有的人喜欢看看电影、听听音乐换换心情;有的人喜欢打一场网球流一场汗让自己彻底放松。只有是自己喜欢的，才能做到绝对的放松，所以不要担心做什么样的娱乐活动更好些，只要是自己喜欢的就可以了。当然，我们还是不推荐在这期间做太多“大功率”运动，一是容易受伤、二是容易造成身体上的劳累，得不偿失。</view> 
+                </view> 
+            </view>     
+        </view>   
+    </view>
+</view>
+
+<view class="like_passage">
+    <image src="{{like}}" bindtap="liketap"></image>
+</view>

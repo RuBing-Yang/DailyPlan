@@ -1,0 +1,6 @@
+.page{background-color:var(--weui-BG-2)}image{margin:4px 0}
+.weui-article__img{
+    align-items: center; 
+    margin-left: 0px;
+    width: 98%;
+}

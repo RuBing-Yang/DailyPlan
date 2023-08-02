@@ -1,0 +1,27 @@
+<!-- pages/time/time.wxml -->
+<view class='wrap'>
+    <view>
+        <view class='date-show'>
+            <view class='lt-arrow' bindtap='lastMonth'>
+                <image src='/images/icon/arrow_left.png' mode='aspectFit'></image>
+            </view>
+            {{year}}年{{month}}月
+            <view class='rt-arrow' bindtap='nextMonth'>
+                <image src='/images/icon/arrow_right.png' mode='aspectFit'></image>
+            </view>
+        </view>
+    </view>
+    <view class='header'>
+        <view wx:for='{{date}}' wx:for-item="item" wx:key="*this" class='{{(index == todayIndex) && isTodayWeek ? "weekMark" : ""}}'>{{item}}</view>
+    </view>
+    <view class='date-box'>
+        <view wx:for-items="{{dateArr}}" wx:for-item="item" wx:key="*this" class='{{isToday == item.isToday ? "nowDay" : ""}}+{{item.isimportant==true ? "importantDay" : ""}}' data-date='{{item.isToday}}' bindtap="bindImportant" data-datenum="{{item.datenum}}" data-isimportant="{{item.isimportant}}">
+            <view class='date-head'>
+                <!-- 核心数据：dateArr数组，嵌套object对象 -->
+                <view>{{item.datenum}}</view>
+            </view>
+            <!-- <view class='date-weight'>{{item.weight}}</view> -->
+        </view>
+    </view>
+</view>
+<view class="hint">{{label}}</view>

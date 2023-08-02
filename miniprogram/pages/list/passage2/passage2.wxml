@@ -1,0 +1,17 @@
+<view class="page" data-weui-theme="{{theme}}">
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__h1">太真实了:</view>
+            <view class="weui-article__section" wx:for-items="{{passage2}}" wx:for-item="item" wx:key="*this">
+                <view class="weui-article__section">
+                        <view class="weui-article__p">{{item.words}}</view>
+                        <view class="weui-article__p"> <image class="weui-article__img" src="{{'cloud://xly-4oitt.786c-xly-4oitt-1302023783/passages/passage2'+item.num+'.jpg'}}" mode="aspectFit" style="height: 180px" /></view>
+                </view> 
+            </view>     
+        </view>   
+    </view>
+</view>
+
+<view class="like_passage">
+    <image src="{{like}}" bindtap="liketap"></image>
+</view>

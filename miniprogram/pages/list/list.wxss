@@ -1,0 +1,4 @@
+/* pages/list/list.wxss */
+.weui-media-box__hd_in-appmsg{
+    height: auto;
+}

@@ -1,0 +1,58 @@
+{
+    "pages": [
+        "pages/edit/edit",
+        "pages/edit/newplan/newplan",
+        "pages/list/list",
+        "pages/list/passage0/passage0",
+        "pages/list/passage1/passage1",
+        "pages/list/passage2/passage2",
+        "pages/list/passage3/passage3",
+        "pages/list/passage4/passage4",
+        "pages/list/passage5/passage5",
+        "pages/list/passage6/passage6",
+        "pages/time/time",
+        "pages/index/index",
+        "pages/index/room/room",
+        "pages/index/likelist/likelist"
+    ],
+    "window": {
+        "backgroundTextStyle":"light",
+        "navigationBarBackgroundColor": "#87CEEB",
+        "navigationBarTitleText": "我的每日计划",
+        "navigationBarTextStyle":"white"
+    },
+    "sitemapLocation": "sitemap.json",
+    "style": "v2",
+
+    "tabBar": {
+        "color": "#7A7E83",
+        "selectedColor": "#13227a",
+        "backgroundColor": "#ffffff",
+        "list": [
+          {
+            "pagePath": "pages/edit/edit",
+            "iconPath": "images/icon/edit.png",
+            "selectedIconPath": "images/icon/edit (1).png",
+            "text": "编辑"
+          },
+          {
+            "pagePath": "pages/list/list",
+            "iconPath": "images/icon/order.png",
+            "selectedIconPath": "images/icon/order (1).png",
+            "text": "文章"
+          },
+          {
+            "pagePath": "pages/time/time",
+            "iconPath": "images/icon/time.png",
+            "selectedIconPath": "images/icon/time (1).png",
+            "text": "日历"
+          },
+          {
+            "pagePath": "pages/index/index",
+            "iconPath": "images/icon/setting.png",
+            "selectedIconPath": "images/icon/setting (1).png",
+            "text": "设置"
+          }
+        ]
+      }
+}

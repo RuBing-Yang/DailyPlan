@@ -1,0 +1,4 @@
+/* pages/index/likelist/likelist.wxss */
+.weui-media-box__hd_in-appmsg{
+    height: auto;
+}
